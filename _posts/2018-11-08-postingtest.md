@@ -57,12 +57,10 @@ permalink: /archivers/python_lecture_02
 
 -> 텍스트를 둘러싸는 화살표 사용 <-  :  안 됨
 
+<code> <center> </center> </code> 
 
 
+<center>   위의 코드로는 정상작동함 근데 속에 코드가 표시되도록 썼지만 나오지 않는 이유는 모르겠음..   </center> 
+ 
 
-<center>   <code> <center> </center>  </code>   </center> 
- 
- 
- 위의 코드로는 정상작동함 근데 속에 코드가 표시되도록 썼지만 나오지 않는 이유는 모르겠음..
- 
  
