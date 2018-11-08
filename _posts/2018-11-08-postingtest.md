@@ -3,7 +3,7 @@ layout: post
 title:  "마크다운 문서 작성 테스트 "
 date:   2018-11-08 
 categories: Data_science
-permalink: /archivers/python_lecture_02
+permalink: /archivers/python_lecture_03
 ---
 
 # 마크다운 테스트.md
